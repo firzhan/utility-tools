@@ -1,0 +1,15 @@
+<ProcessInstanceCreateRequest>
+    <processDefinitionId>seqProcess:1:12</processDefinitionId>
+    <businessKey>seqProcess</businessKey>
+    <RestVariables>
+        <RestVariable>
+            <name>myVar</name>
+            <value>111</value>
+        </RestVariable>
+        <RestVariable>
+            <name>myVar2</name>
+            <value>0</value>
+        </RestVariable>
+
+    </RestVariables>
+</ProcessInstanceCreateRequest>

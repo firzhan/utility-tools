@@ -1,0 +1,17 @@
+<ExecutionActionRequest>
+    <signalName>signal1</signalName>
+    <messageName>,essage1</messageName>
+    <processDefinitionId>seqProcess:1:12</processDefinitionId>
+    <businessKey>seqProcess</businessKey>
+    <RestVariables>
+        <RestVariable>
+            <name>myVar</name>
+            <value>This is a variable</value>
+        </RestVariable>
+        <RestVariable>
+            <name>myVar2</name>
+            <value>10</value>
+        </RestVariable>
+
+    </RestVariables>
+</ExecutionActionRequest>
